@@ -9,6 +9,7 @@ pip install django-filter
 
 
 python -m pip install django-allauth
+pip install django-rest-auth
 
 
 python manage.py makemigrations
